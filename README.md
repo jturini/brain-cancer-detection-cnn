@@ -24,11 +24,13 @@ O objetivo principal é demonstrar um fluxo completo de um projeto de Deep Learn
 
 ## 🚀 Como Executar o Projeto
 
-Siga os passos abaixo para executar o aplicativo localmente:
+Disponível para uso em: https://cancerdetectionproject.streamlit.app/?embed_options=disable_scrolling,dark_theme
+
+Caso queira executar o aplicativo localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/brain-cancer-detector-cnn.git](https://github.com/SEU_USUARIO/brain-cancer-detector-cnn.git)
+    git clone [https://github.com/jturini/brain-cancer-detector-cnn.git](https://github.com/SEUUSUARIO/brain-cancer-detector-cnn.git)
     cd brain-cancer-detector-cnn
     ```
 
@@ -64,6 +66,7 @@ A base de dados utilizada para o treinamento e teste do modelo foi o "Brain Canc
 ## ⚠️ Aviso Legal
 
 Este projeto foi desenvolvido para fins educacionais e de demonstração. **Não deve ser utilizado como uma ferramenta de diagnóstico médico real.** Sempre consulte um profissional de saúde qualificado para obter diagnósticos e tratamentos.
+
 
 
 
