@@ -10,7 +10,7 @@ O objetivo principal é demonstrar um fluxo completo de um projeto de Deep Learn
 
 -   **Upload de Imagens:** Permite que o usuário carregue uma imagem de MRI em formato JPG, JPEG ou PNG.
 -   **Análise em Tempo Real:** O modelo processa a imagem e retorna o diagnóstico em poucos segundos.
--   **Interface Informativa:** Apresenta abas com a ferramenta de análise, métricas de performance detalhadas (Matriz de Confusão, Relatório de Classificação, Curva ROC) e explicações sobre o comportamento do modelo.
+-   **Interface Informativa:** Apresenta abas com a ferramenta de análise, métricas de performance detalhadas (Matriz de Confusão, Relatório de Classificação) e explicações sobre o comportamento do modelo.
 -   **Design Responsivo:** A interface se adapta a diferentes tamanhos de tela, de desktops a celulares.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -64,5 +64,6 @@ A base de dados utilizada para o treinamento e teste do modelo foi o "Brain Canc
 ## ⚠️ Aviso Legal
 
 Este projeto foi desenvolvido para fins educacionais e de demonstração. **Não deve ser utilizado como uma ferramenta de diagnóstico médico real.** Sempre consulte um profissional de saúde qualificado para obter diagnósticos e tratamentos.
+
 
 
