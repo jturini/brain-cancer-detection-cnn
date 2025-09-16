@@ -55,7 +55,7 @@ with st.sidebar:
     uploaded_file = st.file_uploader("Escolha uma imagem de MRI...", type=["jpg", "jpeg", "png"])
     st.divider()
     st.subheader("Recursos do Projeto")
-    st.link_button("Acessar Documentação (GitHub)", url="https://github.com/SEU_USUARIO/SEU_REPOSITORIO")
+    st.link_button("Acessar Documentação (GitHub)", url="https://github.com/jturini/brain-cancer-detection-cnn")
     st.link_button("Base de Dados no Kaggle", url="https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images")
 
 # --- PÁGINA PRINCIPAL ---
