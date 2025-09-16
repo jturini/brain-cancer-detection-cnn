@@ -54,13 +54,7 @@ Siga os passos abaixo para executar o aplicativo localmente:
 
 ## 📈 Performance do Modelo
 
-O modelo foi avaliado em um conjunto de teste separado, alcançando uma **acurácia de 95%**. As métricas detalhadas abaixo mostram um modelo com altíssima sensibilidade (Recall) para detectar tumores, priorizando a segurança do diagnóstico.
-
-#### Matriz de Confusão
-![Matriz de Confusão](confusion_matrix.png)
-
-#### Curva ROC
-![Curva ROC](roc_curve.png)
+O modelo foi avaliado em um conjunto de teste separado, alcançando uma **acurácia de 95%**. As métricas detalhadas abaixo mostram um modelo com altíssima sensibilidade (Recall) para detectar tumores, priorizando a segurança do diagnóstico. Mais informações disponíveis no site do projeto
 
 ##  dataset
 
@@ -70,4 +64,5 @@ A base de dados utilizada para o treinamento e teste do modelo foi o "Brain Canc
 ## ⚠️ Aviso Legal
 
 Este projeto foi desenvolvido para fins educacionais e de demonstração. **Não deve ser utilizado como uma ferramenta de diagnóstico médico real.** Sempre consulte um profissional de saúde qualificado para obter diagnósticos e tratamentos.
+
 
