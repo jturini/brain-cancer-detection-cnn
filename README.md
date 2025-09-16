@@ -1,8 +1,5 @@
 # 🧠 Detector de Câncer Cerebral com CNN e PyTorch
 
-![Streamlit App Demo](https://path-to-your-gif-or-screenshot.com/demo.png)  
-*Substitua o link acima por uma captura de tela ou GIF do seu aplicativo em funcionamento.*
-
 ## 📖 Descrição do Projeto
 
 Este projeto é um aplicativo web desenvolvido com Streamlit que utiliza uma **Rede Neural Convolucional (CNN)**, construída com PyTorch, para classificar imagens de ressonância magnética (MRI) do cérebro. O modelo é capaz de identificar se uma imagem apresenta sinais de tumor cerebral ou se é saudável.
@@ -73,3 +70,4 @@ A base de dados utilizada para o treinamento e teste do modelo foi o "Brain Canc
 ## ⚠️ Aviso Legal
 
 Este projeto foi desenvolvido para fins educacionais e de demonstração. **Não deve ser utilizado como uma ferramenta de diagnóstico médico real.** Sempre consulte um profissional de saúde qualificado para obter diagnósticos e tratamentos.
+
